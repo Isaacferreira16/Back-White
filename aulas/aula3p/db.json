@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": "2",
+      "nome": "laranja",
+      "preço": 8
+    },
+    {
+      "id": "3",
+      "nome": "maca",
+      "preço": 10
+    },
+    {
+      "id": "a6e1",
+      "nome": "laranja",
+      "preco": "23.00"
+    },
+    {
+      "id": "de13",
+      "nome": "banana nanica",
+      "preco": "17.00"
+    }
+  ]
+}
